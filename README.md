@@ -13,7 +13,7 @@ I combine **Academic Fundamentals** (Bachelor's Degree) with **Practical DevOps 
 | **OS & Admin** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Web Servers** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Certifications** | **Google** Crash Course on Python 🐍 | **University of Michigan** Data Structures 🎓 |
+| **Certifications** | **Google** Crash Course on Python 🐍 <br> **University of Michigan** Data Structures 🎓 |
 | **Learning Next** | Docker, Kubernetes, CI/CD (Jenkins) |
 
 ---
@@ -27,13 +27,12 @@ I combine **Academic Fundamentals** (Bachelor's Degree) with **Practical DevOps 
 
 ### 📈 My Github Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iBless6d&show_icons=true&theme=radical&hide_border=true" alt="Adil's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iBless6d&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Adil's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBless6d&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ### 📫 Connect With Me
-* [💼 LinkedIn](https://www.linkedin.com/in/adil-semlali-64b23b153/)
-* [📧 Email](mailto:semlali.adil98@gmail.com)
+* 👻 *Currently in Stealth Mode (Building & Learning)*
 
 ---
 *"Disziplin ist Freiheit."*
