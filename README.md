@@ -25,9 +25,11 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 
 ---
 
-### 📈 My Github Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iBless6d&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Adil's Stats" />
+### 📈 My Discipline Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iBless6d&theme=radical&hide_border=true" alt="Adil's Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBless6d&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
