@@ -1,9 +1,9 @@
 ### Hallo, I'm Adil Semlali! 👋🇲🇦
 
-I am a disciplined **Aspiring DevOps Engineer** with a strong background in **Computer Engineering** (Kharkiv National University of Radio Electronics). My journey is fueled by strict daily habits, deep focus, and a clear goal: **Joining the German Tech Industry 🇩🇪**.
+I am a disciplined **Aspiring DevOps Engineer** with a strong academic background in **Computer Engineering** (Kharkiv National University of Radio Electronics). My journey is fueled by strict daily habits, deep focus, and a clear goal: **Joining the German Tech Industry 🇩🇪**.
 
 #### 🚀 Why Me?
-I combine **Academic Fundamentals** (Bachelor's Degree) with **Practical DevOps Skills**. I don't just "learn" tools; I build resilient systems. I follow a strict **"Learn by Doing"** approach, committing code daily and documenting every step of my transition into Cloud Native technologies.
+I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevOps Skills**. I don't just "learn" tools; I build resilient systems. I follow a strict **"Learn by Doing"** approach, committing code daily and documenting every step of my transition into Cloud Native technologies.
 
 ---
 
@@ -13,8 +13,8 @@ I combine **Academic Fundamentals** (Bachelor's Degree) with **Practical DevOps 
 | **OS & Admin** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Web Servers** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Certifications** | **Google** Crash Course on Python 🐍 <br> **University of Michigan** Data Structures 🎓 |
-| **Learning Next** | Docker, Kubernetes, CI/CD (Jenkins) |
+| **Certifications** | **Google** Crash Course on Python 🐍 <br> **U. Michigan** Python Data Structures 🎓 <br> **U. Michigan** Programming for Everybody 🐍 |
+| **Next Targets** | **AWS Cloud** ☁️ • **Kubernetes (K8s)** ☸️ • **Terraform (IaC)** 🏗️ • **CI/CD** ♾️ |
 
 ---
 
