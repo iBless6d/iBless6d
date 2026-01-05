@@ -26,15 +26,21 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 ---
 
 ### 📈 My Discipline Stats
+### 💻 My Tech Stack
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iBless6d&theme=radical&hide_border=true" alt="Adil's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBless6d&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 </p>
 
 ### 📫 Connect With Me
 * 👻 *Currently in Stealth Mode (Building & Learning)*
+* [💼 LinkedIn](https://www.linkedin.com/in/adil-semlali-64b23b153/)
+* [📧 Email](mailto:semlali.adil98@gmail.com)
 
 ---
 *"Disziplin ist Freiheit."*
