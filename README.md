@@ -10,6 +10,7 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 ### 🎓 Academic Foundation
 - **Degree**: Bachelor of Science in Computer Engineering (2017 - 2021).
 - **University**: Kharkiv National University of Radio Electronics (NURE), Ukraine.
+- **Accreditation**: **H+ Anabin Recognized** (Legal equivalence for engineering in Germany).
 - **Bachelor Thesis**: *"Software Tools for Performance Assessment in Cloud Infrastructure"*.
   - *Focus*: Performance metrics evaluation and system stability within cloud-native environments.
 - **Core Engineering Pillars**: Operating Systems Theory, Computer Architecture, Networking, and Algorithms/Data Structures.
