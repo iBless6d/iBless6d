@@ -1,4 +1,4 @@
-### Hallo, I'm Adil Semlali! 👋
+### Hallo, I'm Adil Semlali! 👋 
 
 I am a disciplined **Aspiring DevOps Engineer** with a strong academic background in **Computer Engineering** (Kharkiv National University of Radio Electronics). My journey is fueled by strict daily habits, deep focus, and a clear goal: **Joining the German Tech Industry 🇩🇪**.
 
