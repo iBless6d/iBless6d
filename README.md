@@ -1,7 +1,7 @@
 ### Hallo, I'm Adil Semlali! 👋      
                                                                                                                                
 I am a disciplined **Aspiring DevOps Engineer** with a strong academic background in **Computer Engineering** (Kharkiv National University of Radio Electronics). My journey is fueled by strict daily habits, deep focus, and a clear goal: **Joining the German Tech Industry 🇩🇪**.
-         
+           
 #### 🚀 Why Me?      
 I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevOps Skills**. I don't just "learn" tools; I build resilient systems. I follow a strict **"Learn by Doing"** approach, committing code daily and documenting every step of my transition into Cloud Native technologies.
 
