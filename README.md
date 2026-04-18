@@ -5,7 +5,7 @@ I am a disciplined **Aspiring DevOps Engineer** with a strong academic backgroun
 #### 🚀 Why Me?      
 I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevOps Skills**. I don't just "learn" tools; I build resilient systems. I follow a strict **"Learn by Doing"** approach, committing code daily and documenting every step of my transition into Cloud Native technologies.
 
----  
+---   
 
 ### 🎓 Academic Foundation 
 - **Degree**: Bachelor of Science in Computer Engineering.
