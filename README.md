@@ -16,7 +16,7 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 - **Core Engineering Pillars**: Operating Systems Theory, Computer Architecture, Networking, and Algorithms/Data Structures.
 
 ---
-
+           
 ### 🛠️ Technical Arsenal
 | Category | Stack |
 | :--- | :--- |
