@@ -14,7 +14,7 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 - **Bachelor Thesis**: *"Software Tools for Performance Assessment in Cloud Infrastructure"*.
   - *Focus*: Performance metrics evaluation and system stability within cloud-native environments.
 - **Core Engineering Pillars**: Operating Systems Theory, Computer Architecture, Networking, and Algorithms/Data Structures.
-
+          
 ---
            
 ### 🛠️ Technical Arsenal
