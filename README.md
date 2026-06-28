@@ -29,7 +29,7 @@ I combine **Engineering Fundamentals** (Bachelor's Degree) with **Practical DevO
 ---
 
 ### 🇩🇪 German Language Progress
-*Dedication is key. I study German every morning before code.*
+*Dedication is key. I study German every morning before code.*  
 * **Current Level:** B2 Business Professional (In Progress🏗️).
 * **Goal:** Full Professional Proficiency.
 
